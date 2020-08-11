@@ -1,6 +1,6 @@
 # jh_legal_affairs
 
-A new Flutter project.
+ I am involved in the project.
 
 ## Getting Started
 
