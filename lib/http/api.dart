@@ -6,11 +6,7 @@ import 'package:dio/dio.dart';
 import 'package:jh_legal_affairs/http/handle.dart';
 import 'package:jh_legal_affairs/util/tools.dart';
 
-/// 创建者：王增阳
-/// 开发者：王增阳
-/// 版本：1.0
-/// 创建日期：2020-02'-1'9
-///
+
 final _client = new HttpClient();
 
 var _id = 0;
